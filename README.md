@@ -1,4 +1,4 @@
-#### Kodluyoruz'un Front-end Eğitiminin 1. Boostrap Ödevi
+#### Kodluyoruz'un Front-end Eğitiminin 1. Bootstrap Ödevi
 
 -Bizden İstenen
 ![](img/bootstrap.gif)
